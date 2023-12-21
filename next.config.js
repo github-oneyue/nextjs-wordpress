@@ -3,8 +3,8 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: 'https',
-        hostname: 'wordpress.nextjswp.com'
+        protocol: 'http',
+        hostname: 'tiktv.eu.org'
       },
       {
         protocol: 'https',
